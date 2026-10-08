@@ -1,9 +1,11 @@
-aloha 
- 
-## What I learned 
-- git clone / add / commit / push µÄ»ù±¾Á÷³Ì 
-- ´´½¨ºÍÇĞ»»·ÖÖ§ for_fun 
-- ½â¾ö readme.md ºÏ²¢³åÍ» 
-- ÓÃÔ¤ÑµÁ· ResNet ¶Ô MNIST ×öÍÆÀí 
-- commit message ¼ÇÂ¼×¼È·ÂÊ 
-- reflog ¿ÉÒÔ×·×Ù HEAD µÄÒÆ¶¯ 
+aloha
+
+## What I learned
+
+* git clone / add / commit / push çš„åŸºæœ¬æµç¨‹
+* åˆ›å»ºå’Œåˆ‡æ¢åˆ†æ”¯ for\_fun
+* è§£å†³ readme.md åˆå¹¶å†²çª
+* ç”¨é¢„è®­ç»ƒ ResNet å¯¹ MNIST åšæ¨ç†
+* commit message è®°å½•å‡†ç¡®ç‡
+* reflog å¯ä»¥è¿½è¸ª HEAD çš„ç§»åŠ¨
+
